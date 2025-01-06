@@ -132,7 +132,14 @@ button {
     font-weight: 600;
     margin-left: auto;
     padding: 0 32px;
+}
 
+.forth-layer {
+    height: 250pxs;
+}
+
+.long-width {
+    width: 800px;
 }
 
 
