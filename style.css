@@ -1,5 +1,6 @@
 body {
     font-family: Roboto sans-serif;
+    padding: 0px;
 }
 
 .first-layer {
@@ -56,8 +57,8 @@ button {
     color: white;
     text-align: center;
     align-content: center;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 .headers {
@@ -76,8 +77,8 @@ button {
 
 .second-layer {
     height: 400px;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 .info-header {
@@ -124,25 +125,35 @@ button {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 
 .sign {
     font-weight: 600;
     margin-left: auto;
-    padding: 0 32px;
+    padding: 0px 32px;
 }
 
 .forth-layer {
-    height: 250px;
+    padding: 80px 150px;
 }
 
 .long-width {
     width: 800px;
+    border-radius: 5px;
     background: #3882F6;
-
+    padding: 30px 50px;
+    display: flex;
+    margin: 0px;
+    flex: 1;
 }
+
+.white-border {
+    border: 3px solid white;
+    border-radius: 7px;
+}
+
 
 
 
