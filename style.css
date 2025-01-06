@@ -135,11 +135,13 @@ button {
 }
 
 .forth-layer {
-    height: 250pxs;
+    height: 250px;
 }
 
 .long-width {
     width: 800px;
+    background: #3882F6;
+
 }
 
 
