@@ -44,14 +44,14 @@ button {
     padding: 8px 24px;
     font-size: 18px;
     color: white;
-    background: rgb(32, 117, 191);
+    background: #3882F6;
     border: none;
 }
 
 .image-placeholder {
     width: 530px;
     height: 200px;
-    background: rgb(130, 128, 128);
+    background: gray;
     flex-shrink: 0;
     color: white;
     text-align: center;
@@ -71,6 +71,45 @@ button {
     max-height: 200px;
     gap: 16px;
 }
+
+.second-layer {
+    height: 400px;
+    margin: 0;
+    padding: 0;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding: 32px;
+}
+
+.huge {
+    width: 140px;
+    height: 140px;
+    border: 5px solid #3882F6;
+    background: none;
+    border-radius: 15px;
+    flex-shrink: 0;
+    margin-bottom: 8px;
+}
+
+.huge-buttons {
+    display: flex;
+    text-align: center;
+    gap: 36px;
+    justify-content: center;
+    padding-bottom: 68px;
+}
+
+.info-one, .info-two, .info-three, .info-four {
+    max-width: 140px;
+    flex-wrap: wrap;
+    
+}
+
 
 
 
