@@ -2,7 +2,7 @@ body {
     font-family: Roboto sans-serif;
 }
 
-.first-part {
+.first-layer {
     height: 500px;
     background: #1F2937;
     padding: 0 150px;
@@ -56,6 +56,8 @@ button {
     color: white;
     text-align: center;
     align-content: center;
+    margin: 0;
+    padding: 0;
 }
 
 .headers {
@@ -106,8 +108,12 @@ button {
 
 .info-one, .info-two, .info-three, .info-four {
     max-width: 140px;
-    flex-wrap: wrap;
-    
+    flex-wrap: wrap;    
+}
+
+.third-layer {
+    background: #E5E7EB;
+    height: 350px;
 }
 
 
