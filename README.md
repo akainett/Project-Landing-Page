@@ -1,1 +1,2 @@
 # Project-Landing-Page
+This is my first project after learning css basics. Glad I was able to do this amazing project. A big thanks to the odin project for this opportunity. I am in love with the way the courses are arranged. It has helped my understanding of the course very well.  

@@ -163,4 +163,10 @@ button {
 .action-message {
     color: white;
 }
-
+footer {
+    height: 100px;
+    background: #1F2937;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
