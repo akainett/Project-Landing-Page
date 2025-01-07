@@ -140,20 +140,27 @@ button {
 }
 
 .long-width {
-    width: 800px;
     border-radius: 5px;
     background: #3882F6;
-    padding: 30px 50px;
+    padding: 40px 100px;
     display: flex;
     margin: 0px;
     flex: 1;
+    justify-content: space-between;
 }
 
 .white-border {
     border: 3px solid white;
     border-radius: 7px;
+    padding: 3px 30px;
 }
 
+.action {
+    color: white;
+    font-weight: 900;
+}
 
-
+.action-message {
+    color: white;
+}
 
